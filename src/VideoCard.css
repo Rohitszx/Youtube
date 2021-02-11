@@ -1,0 +1,14 @@
+.VideoCard{
+    margin-bottom: 40px;
+    width: 270px;
+    padding: 10px;
+
+}
+.videoCard_thmb{
+    height: 150px;
+    width: 250px;
+}
+.video_info{
+    display: flex;
+    
+}
